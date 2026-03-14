@@ -100,12 +100,16 @@ Big believer in systems that stay up and dev workflows that don't suck—whether
 
 ## :u7121: GitHub Stats Card
 <!-- Themes: tokyonight, dark, radical, github_dark -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=etc-binstack&show_icons=true&theme=radical"/> -->
+<!-- <img src="https://streak-stats.demolab.com?user=etc-binstack&theme=radical"/> -->
 <!-- Top Languages -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etc-binstack&layout=compact&theme=tokyonight"/> -->
 <!-- Profile Views -->
 <!-- <img src="https://komarev.com/ghpvc/?username=etc-binstack&style=for-the-badge"/> -->
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=etc-binstack&show_icons=true&theme=radical"/>  <img src="https://streak-stats.demolab.com?user=etc-binstack&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=etc-binstack&show_icons=true&theme=radical&card_width=500"/>  
+<img src="https://streak-stats.demolab.com?user=etc-binstack&theme=radical&width=500"/>
 </p>
 <br>
 
