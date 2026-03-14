@@ -113,7 +113,12 @@ Big believer in systems that stay up and dev workflows that don't suck—whether
 </p>
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=etc-binstack&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=etc-binstack&theme=radical" width="49%"/>
+</p>
 
+<br>
 
 ## 📂 Projects
 - Kubernetes cluster deployment
