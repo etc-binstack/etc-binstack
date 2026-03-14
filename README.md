@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Aritra Biswas
 
-<!--
-**etc-binstack/etc-binstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior DevOps Engineer | AWS Cloud Architect | Kubernetes | ECS Fargate Specialist | Terraform & IaC Expert
 
-Here are some ideas to get you started:
+I specialize in **production-grade container platforms, infrastructure automation, and multi-region cloud architecture**.
+I design and operate **large-scale AWS microservices platforms using ECS Fargate, Terraform, CI/CD pipelines, and automated service discovery**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Tech Stack
+- ECS, Fargate, EKS, Lambda
+- VPC, Subnets, Route53, CloudMap
+- API Gateway + VPC Link
+- Global Accelerator
+- ALB / NLB
+- CloudFront
+- S3, RDS, DynamoDB, EFS
+- IAM, KMS, Secrets Manager
+- AWS Organizations & SCP governance
+- Terraform (IaC)
+- Docker
+- Kubernetes
+- CI/CD (GitHub Actions, Jenkins, GitLab CI, Groovy, & YAML base pipelines)
+- Linux & Networking
+- Azure DevOps
+- Docker containerization
+- AWS CodeBuild / CodePipeline
+- Python
+- Bash/Shell
+- Powershell
+
+
+## 📂 DevOps Projects
+- Kubernetes cluster deployment
+- Terraform AWS infrastructure
+- CI/CD automation pipelines
+
+
+## Observability & Monitoring
+- CloudWatch
+- Prometheus
+- Grafana
+- ELK Stack
+- Distributed logging with FireLens / Fluent Bit
+
+## 🌐 Portfolio
+https://aritra-devops.vercel.app
+
+## 📫 Contact
+LinkedIn | Email
+
+---
+
+⭐ I enjoy building **scalable cloud platforms, automated infrastructure, and resilient multi-region architectures**.
