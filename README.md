@@ -16,7 +16,17 @@
   <a href="https://github.com/etc-binstack">
   <img src="https://img.shields.io/badge/GitHub-Follow?style=for-the-badge&labelColor=181717&color=181717&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://youtube.com/etc-binstack">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&random=false&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;Building+scalable+infrastructure;Turning+IaC+into+reality;🔥+Automating+the+boring+stuff" alt="typing svg" />
+</div>
+<br>
+
 
 <p>
 I'm a Cloud & DevOps engineer who loves turning infrastructure into code and making things run smoothly at scale.  
@@ -32,8 +42,9 @@ Currently diving deeper into advanced observability setups, GitOps patterns, and
 Big believer in automation that saves time, open-source vibes, and sharing what I learn along the way.  
 If you're into cloud-native stuff, container platforms, or just want to chat about why YAML is both love and hate — hit me up!
 </p>
-
 <br>
+
+
 
 <h2 align="left">💼 Cloud & DevOps | Things I Build, Break & (Hopefully) Fix</h2>
 
@@ -46,7 +57,6 @@ Love turning infrastructure into code, making microservices play nice together (
 Containers, networking, monitoring, alerting... that's my happy place.  
 Big believer in systems that stay up and dev workflows that don't suck—whether it's auto-healing at 3 a.m., saving someone an hour of YAML hell, or making monorepo changes actually feel smooth instead of terrifying.
 </p>
-
 <br>
 
 <p align="left">
@@ -56,12 +66,13 @@ Big believer in systems that stay up and dev workflows that don't suck—whether
   <img src="https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
   <!-- Infrastructure -->
   <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  
+</p>
+
+<p align="left">
   <!-- CI/CD -->
   <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -73,7 +84,9 @@ Big believer in systems that stay up and dev workflows that don't suck—whether
   <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+</p>
 
+<p align="left">
   <!--  Observability & Monitoring -->
   <img src="https://img.shields.io/badge/Amazon%20CloudWatch-Monitoring-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
@@ -82,6 +95,21 @@ Big believer in systems that stay up and dev workflows that don't suck—whether
   <img src="https://img.shields.io/badge/Fluent%20Bit-Log%20Forwarding-49BDA5?style=for-the-badge&logo=fluentbit&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FireLens-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
+<br>
+
+
+## :u7121: GitHub Stats Card
+<!-- Themes: tokyonight, dark, radical, github_dark -->
+<!-- Top Languages -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etc-binstack&layout=compact&theme=tokyonight"/> -->
+<!-- Profile Views -->
+<!-- <img src="https://komarev.com/ghpvc/?username=etc-binstack&style=for-the-badge"/> -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=etc-binstack&show_icons=true&theme=radical"/> 
+<img src="https://streak-stats.demolab.com?user=etc-binstack&theme=radical"/>
+</p>
+<br>
+
 
 
 ## 📂 Projects
@@ -89,9 +117,15 @@ Big believer in systems that stay up and dev workflows that don't suck—whether
 - Terraform AWS infrastructure
 - CI/CD automation pipelines
 
+<br>
+
 ## 🌐 Website
 https://aritra-devops.vercel.app
 
+
+<br>
 ---
 
 ⭐ I enjoy building **scalable cloud platforms, automated infrastructure, and resilient multi-region architectures**.
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=etc-binstack&style=for-the-badge"/>
