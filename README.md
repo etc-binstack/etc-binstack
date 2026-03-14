@@ -105,8 +105,7 @@ Big believer in systems that stay up and dev workflows that don't suck—whether
 <!-- Profile Views -->
 <!-- <img src="https://komarev.com/ghpvc/?username=etc-binstack&style=for-the-badge"/> -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=etc-binstack&show_icons=true&theme=radical"/> 
-<img src="https://streak-stats.demolab.com?user=etc-binstack&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=etc-binstack&show_icons=true&theme=radical"/>  <img src="https://streak-stats.demolab.com?user=etc-binstack&theme=radical"/>
 </p>
 <br>
 
